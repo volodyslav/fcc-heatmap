@@ -1,0 +1,18 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+#container{
+    margin: 1rem;
+    
+}
+
+#description{
+    margin: 1rem;
+}
+
